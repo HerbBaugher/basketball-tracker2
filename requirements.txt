@@ -1,4 +1,6 @@
 streamlit
 pandas
-odfpy
+requests
+matplotlib
 openpyxl
+odfpy
